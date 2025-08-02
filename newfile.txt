@@ -1,1 +1,1 @@
-this is my new file for lerning github 
+this is my new file for lerning git 
